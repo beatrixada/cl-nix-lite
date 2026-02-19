@@ -1,8 +1,4 @@
 builds:
   exclude:
-    - "*.x86_64-linux.*"
-    - "*.x86_64-darwin.*"
-    - "*.aarch64-linux.*"
-  include:
-    - "checks.aarch64-darwin.*"
+    - "checks.examples.*"
 fodChecks: true
