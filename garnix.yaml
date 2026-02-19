@@ -1,5 +1,5 @@
 builds:
   include:
-    - "*.aarch64-darwin.*"
-    - "*.x86_64-darwin.*"
+    - "checks.aarch64-darwin.*"
+    - "checks.x86_64-darwin.*"
 fodChecks: true

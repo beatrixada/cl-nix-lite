@@ -2,7 +2,7 @@
   inputs = {
     flake-parts.url = "github:hercules-ci/flake-parts";
     # All below for local dev only, not used for actual overlay
-    nixpkgs.url = "github:nixos/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-25.11-darwin";
     treefmt-nix.url = "github:numtide/treefmt-nix";
   };
 
