@@ -4,5 +4,5 @@ builds:
     - "*.x86_64-darwin.*"
     - "*.x86_64-linux.*"
   include:
-    - "checks.aarch64-darwin.*"
+    - "defaultPackage.aarch64-darwin"
 fodChecks: true
