@@ -1,4 +1,7 @@
 builds:
   exclude:
-    - "checks.*.*"
+    - "checks.*"
+  include:
+    - "defaultPackage.*"
+    - "devShell.*"
 fodChecks: true
