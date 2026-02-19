@@ -1,4 +1,5 @@
 builds:
   exclude:
+    - "flake.*"
     - "checks.examples.*"
 fodChecks: true
